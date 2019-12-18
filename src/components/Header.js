@@ -6,15 +6,8 @@ function Header() {
 		<header className='navbar'>
 		<h1>This is your Header!</h1>
 		</header>
-
-
-
-
-		)
+   )
 }
-
-
-
 
 
 
